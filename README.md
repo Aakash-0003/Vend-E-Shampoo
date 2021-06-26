@@ -1,3 +1,5 @@
+Live link : https://anuanmol.github.io/Vend-E-Shampoo/
+
 # Vend-E-Shampoo
 Plastic pollution is one of the biggest concerns of the millennial times. Companies are trying to minimise plastic but now is the time to reduce its usage to 0. As a matter-of-fact, since 1950’s, only 10% of the plastic has been recycled. If the statistics of the National Geographic are to be believed, half of all plastics ever manufactured have been made in the last 15 years. Production increased exponentially, from 2.3 million tons in 1950 to 448 million tons by 2015. Production is expected to double by 2050.
 Microplastics are spread throughout the water column and have been found in every corner of the globe, from Mount Everest, the highest peak, to the Mariana Trench, the deepest trough.
