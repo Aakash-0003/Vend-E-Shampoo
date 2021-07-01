@@ -1,0 +1,50 @@
+.navbar{
+    background-color: white;
+    border-bottom: 1px solid white;
+}
+
+.navbar .logo{
+    font-family: comic sans MS;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 30px;
+}
+
+.navbar .nav-item .nav-link{
+    margin-left: 4.5px;
+    margin-right: 4.5px;
+    font-family: verdana;
+    color: black;
+    font-size: 18px;
+}
+
+body{
+    background-color: gold;
+}
+
+
+#main-body-section{
+    margin-top: 7rem;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+#main-body-section img{
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#problem-section, #causes-section, #effects-section, #solution-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#main-heading{
+    font-size: 100px;
+    font-family: georgia;
+    padding: 2rem;
+    text-align: center;
+    color: darkgreen;
+}
