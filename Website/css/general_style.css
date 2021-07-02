@@ -1,0 +1,58 @@
+.navbar{
+    background-color: white;
+    border-bottom: 1px solid white;
+}
+
+.navbar .logo{
+    font-family: comic sans MS;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 30px;
+}
+
+.navbar .nav-item .nav-link{
+    margin-left: 4.5px;
+    margin-right: 4.5px;
+    font-family: verdana;
+    color: black;
+    font-size: 18px;
+}
+
+#page-heading{
+    background: url(../images/mark-harpur-foydNaDU-Rg-unsplash.jpg);
+    height: 17rem;
+    background-position: center;
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    
+}
+
+#page-heading .primary-overlay h1{
+    padding-top: 6rem;
+    color: black;
+}
+
+#page-heading .primary-overlay{
+    background: yellow;
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%; 
+}
+
+
+
+
+#adoption-section, #features-section, #advantages-section, #team-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#main-heading{
+    font-size: 90px;
+    font-family: georgia;
+    padding: 2rem;
+    text-align: center;
+    color: darkgreen;
+}
